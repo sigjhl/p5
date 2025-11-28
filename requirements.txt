@@ -1,0 +1,10 @@
+# Core dependencies for podcast generation pipeline
+
+# Google Gemini API - for script generation, QA, and TTS
+google-genai==1.21.1
+
+# OpenAI API - for phoneme identification using o3
+openai>=1.0.0
+
+# Data validation and schemas
+pydantic>=2.0.0
