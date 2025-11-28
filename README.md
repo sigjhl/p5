@@ -2,6 +2,10 @@
 
 The codebase for the P5 paper. 
 
+## Generated audio summaries from the study
+https://drive.google.com/drive/folders/1C-73-dmxJvpvH0X6Wr0CRjeakXbn6ReD?usp=share_link. <img width="468" height="21" alt="image" src="https://github.com/user-attachments/assets/eda07c45-a86c-4033-afa8-bf0fe08021de" />
+
+
 ## Installation
 
 ### Prerequisites
